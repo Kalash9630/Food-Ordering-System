@@ -1,0 +1,54 @@
+DABELI --->
+11 Oil Dabeli:- 20
+12 Butter Dabeli:- 30
+13 Jain Dabeli:- 40
+14 IFT Special Dabeli:- 50
+
+
+VADAPAV --->
+21 Oil Vadapav:- 30
+22 Butter Vadapav:- 40
+23 Jain Vadapav:- 50
+24 IFT Special:- 50
+
+
+SANDWICH --->
+31 Veg. Sandwich:- 40
+32 Cheese Sandwich:- 70
+33 Jain Veg. Sandwich:- 60
+34 IFT Special Sandwich:- 60
+
+
+PIZZA --->
+41 Italian Pizza:- 80
+42 Margherita Pizza:- 100
+43 Jain Pizza:- 140
+44 IFT Special Pizza:- 150
+
+
+PUFF --->
+51 Veg. Puff:- 20
+52 Chinese Puff:- 30
+53 Pasta Puff:- 40
+54 IFT Special Puff:- 60
+
+
+SOFT DRINK --->
+61 Coke:- 30
+62 Pepsi:- 30
+63 Jeera Soda:- 15
+64 Thumbs Up:- 35
+
+
+IFT COMBO'S --->
+71 Veg. Sandwich + Italian Pizza + Pepsi:- 150
+72 Butter Vadapav + Butter Dabeli + Chinese Puff:- 60
+73 All IFT Special's + 2 Coke:- 300
+74 All Jain Item's:- 200
+
+
+TUESDAY'S OFFER'S--->
+81 Buy 1 Get 1 on Butter Vadapav:- 40
+82 Buy 1 Get 1 on Cheese Sandwich:- 70
+83 Buy 2 Italian Pizza GET 2 Pepsi:- 160
+84 Buy 3 Veg. Sandwich GET IFT Special Pizza:- 120

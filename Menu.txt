@@ -1,0 +1,27 @@
+     --------------------------------------------------------    MENU   ----------------------------------------------------------------
+
+              <<-- Dabeli -->>			         <<-- Vadapav -->>                            <<-- Sandwich -->>     
+
+         Id      Name         Price                 Id      Name        Price                  Id     Name               Price   
+
+         11) Oil Dabeli    :-  20                   21) Oil Vadapav    :- 30                   31) Veg. Sandwich        :- 40 
+         12) Butter Dabeli :-  30                   22) Butter Vadapav :- 40                   32) Cheese Sandwich      :- 70
+         13) Jain Dabeli   :-  40                   23) Jain Vadapav   :- 50                   33) Jain Veg. Sandwich   :- 60    
+         14) IFT Special   :-  50                   24) IFT Special    :- 50                   34) IFT Special Sandwich :- 60 
+                                                                                    
+              <<-- Pizza -->>                           <<-- Puff -->>                            <<-- Soft Drinks -->> 
+
+         Id        Name           Price             Id     Name        Price                   Id   Name       Price 
+
+         41) Italian Pizza     :- 80                51) Veg. Puff    :- 20                     61) Coke       :- 30 
+         42) Margherita Pizza  :- 100               52) Chinese Puff :- 30                     62) Pepsi      :- 30
+         43) Jain Pizza        :- 140               53) Pasta Puff   :- 40                     63) Jeera Soda :- 15
+         44) IFT Special Pizza :- 150               54) IFT Special  :- 60                     64) Thumbs Up  :- 35
+
+                     ****** IFT Combo's ******                                 ******  TUESDAY'S OFFER'S  ******       
+
+         71) Veg. Sandwich + Italian Pizza + Pepsi At 150.                 81) Buy 1 Get 1 on Butter Vadapav. 
+         72) Butter Vadapav + Butter Dabeli + Chinese Puff At 60.          82) Buy 1 Get 1 on Cheese Sandwich. 
+         73) All IFT Special's + 2 Coke At 300.                            83) Buy 2 Italian Pizza GET 2 Pepsi.
+         74) All Jain Item's At 200.                                       84) Buy 3 Veg. Sandwich GET IFT Special Pizza.         
+     
