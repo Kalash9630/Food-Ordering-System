@@ -1,4 +1,4 @@
-# Food Ordering System
+# Food Ordering Software
 * Introducing a Python-based software designed for **seamless and automated food ordering**.  
 * This user-friendly software simplifies the entire process, **enhancing efficiency and cutting costs by eliminating the need for human intervention**.  
 * Users benefit from an intuitive interface, ensuring **easy navigation and accurate order processing** from start to finish.     
